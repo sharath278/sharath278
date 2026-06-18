@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech 3rd Year Student  <br>💻 Full Stack Developer | Node.js & Express  <br>📊 Data Structures & Algorithms Enthusiast  <br><br>I am a passionate developer who enjoys building real-world web applications and solving coding problems.  <br>I have hands-on experience with frontend and backend technologies and a strong foundation in core computer science subjects.<br><br>🔹 Interested in backend development & scalable systems  <br>🔹 Actively practicing DSA in C++  <br>🔹 Love learning by building projects  <br><br>Always open to learning, collaborating, and growing as a developer.<br>
+🎓 B.Tech 4th Year Student  <br>💻 Full Stack Developer | Node.js & Express  <br>📊 Data Structures & Algorithms Enthusiast  <br><br>I am a passionate developer who enjoys building real-world web applications and solving coding problems.  <br>I have hands-on experience with frontend and backend technologies and a strong foundation in core computer science subjects.<br><br>🔹 Interested in backend development & scalable systems  <br>🔹 Actively practicing DSA in C++  <br>🔹 Love learning by building projects  <br><br>Always open to learning, collaborating, and growing as a developer.<br>
 
 
 ## 🌐 Socials:
