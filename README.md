@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Golla Sharath</h1>
+  <h1 align="center">Hi 👋, I'm Golla Sharath</h1>
 
 <h3 align="center">🚀 Passionate Developer | MERN Stack | DSA Enthusiast</h3>
 
@@ -88,15 +88,15 @@
 
 <p align="center">
 
-<a href="https://github.com/Ramu6014">
+<a href="https://github.com/sharath278">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/k-kodanda-ramu-4a49b5284/">
+<a href="https://www.linkedin.com/in/gsharath6302059681/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://leetcode.com/u/ramu_64/">
+<a href="https://leetcode.com/u/sharath_235/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -125,11 +125,11 @@
 
 <p align="center">
 
-<a href="https://github.com/Ramu6014">
+<a href="https://github.com/sharath278">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://leetcode.com/u/ramu_64/">
+<a href="https://leetcode.com/u/sharath_235/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
