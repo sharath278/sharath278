@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kotti Kodanda Ramu</h1>
+<h1 align="center">Hi 👋, I'm Golla Sharath</h1>
 
 <h3 align="center">🚀 Passionate Developer | MERN Stack | DSA Enthusiast</h3>
 
