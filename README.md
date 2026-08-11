@@ -10,13 +10,13 @@ I enjoy turning ideas into practical applications and improving my development s
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Engineering Student
-* 💻 Full Stack Web Developer
-* ⚛️ Currently focusing on **React.js & MERN Stack**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🔨 Building real-world web applications
-* 🌱 Always learning and improving
-* 🎯 Goal: Become a strong software developer
+- 🎓 Computer Science Engineering Student
+- 💻 Full Stack Web Developer
+- ⚛️ Currently focusing on **React.js & MERN Stack**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🔨 Building real-world web applications
+- 🌱 Always learning and improving
+- 🎯 Goal: Become a strong software developer
 
 ---
 
@@ -62,14 +62,14 @@ A full-stack travel listing platform where users can explore destinations, creat
 
 ### ✨ Features
 
-* 🔐 User authentication & authorization
-* 🏠 Create, edit and delete listings
-* ⭐ Review and rating system
-* 🖼️ Image upload and management
-* 👤 Owner-based authorization
-* 🗄️ MongoDB database integration
+- 🔐 User authentication & authorization
+- 🏠 Create, edit and delete listings
+- ⭐ Review and rating system
+- 🖼️ Image upload and management
+- 👤 Owner-based authorization
+- 🗄️ MongoDB database integration
 
-**Tech Stack:**
+**Tech Stack:**  
 `Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary`
 
 ---
@@ -80,13 +80,13 @@ A healthcare-focused web application designed to provide users with a convenient
 
 ### ✨ Features
 
-* 👤 User management
-* 🏥 Healthcare-related services
-* 🔐 Authentication
-* 📊 Data management
-* 🌐 Full-stack web architecture
+- 👤 User management
+- 🏥 Healthcare-related services
+- 🔐 Authentication
+- 📊 Data management
+- 🌐 Full-stack web architecture
 
-**Tech Stack:**
+**Tech Stack:**  
 `Node.js` `Express.js` `MongoDB` `JavaScript` `HTML` `CSS`
 
 ---
@@ -97,14 +97,14 @@ A full-stack e-commerce application with product management, authentication, sel
 
 ### ✨ Features
 
-* 🔐 User authentication
-* 🛍️ Product management
-* 🛒 Shopping cart
-* 👨‍💼 Seller-based product management
-* ✏️ Create, update and delete products
-* 🗄️ MongoDB database
+- 🔐 User authentication
+- 🛍️ Product management
+- 🛒 Shopping cart
+- 👨‍💼 Seller-based product management
+- ✏️ Create, update and delete products
+- 🗄️ MongoDB database
 
-**Tech Stack:**
+**Tech Stack:**  
 `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Passport.js`
 
 ---
@@ -115,22 +115,22 @@ A full-stack food management application built with React that allows users to m
 
 ### ✨ Features
 
-* ➕ Add food items
-* 👀 View food items
-* ✏️ Edit food details
-* 🗑️ Delete food items
-* 🔐 Authentication
-* 🔗 REST API integration
-* 📱 React-based frontend
+- ➕ Add food items
+- 👀 View food items
+- ✏️ Edit food details
+- 🗑️ Delete food items
+- 🔐 Authentication
+- 🔗 REST API integration
+- 📱 React-based frontend
 
-**Tech Stack:**
+**Tech Stack:**  
 `React.js` `Node.js` `Express.js` `MongoDB` `Axios`
 
 ---
 
 # 🧠 Problem Solving
 
-I regularly practice Data Structures & Algorithms to improve my problem-solving and coding skills.
+I regularly practice **Data Structures & Algorithms** to improve my problem-solving and coding skills.
 
 ### 📚 Topics I Practice
 
@@ -142,43 +142,23 @@ I regularly practice Data Structures & Algorithms to improve my problem-solving 
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharath278&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharath278&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharath278&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 📈 Currently Learning
 
-```text
-React.js
-    ↓
-Advanced MERN Stack
-    ↓
-REST API Development
-    ↓
-Authentication & Authorization
-    ↓
-Database Design
-    ↓
-System Design Fundamentals
-```
+- ⚛️ React.js
+- 🚀 Advanced MERN Stack
+- 🌐 REST API Development
+- 🔐 Authentication & Authorization
+- 🗄️ Database Design
+- 🏗️ System Design Fundamentals
 
 ---
 
 # 🏆 Achievements
 
-* 🧠 Solved **450+ DSA problems**
-* 💻 Built multiple full-stack web applications
-* 🏅 Certified in Java through HackerRank
-* 🥇 Ranked among the **Top 5** in a web development group of 200+ participants
+- 🧠 Solved **450+ DSA problems**
+- 💻 Built multiple full-stack web applications
+- 🏅 Certified in Java through HackerRank
+- 🥇 Ranked among the **Top 5** in a web development group of 200+ participants
 
 ---
 
@@ -190,7 +170,7 @@ System Design Fundamentals
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
