@@ -153,15 +153,6 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 
 ---
 
-# 🏆 Achievements
-
-- 🧠 Solved **450+ DSA problems**
-- 💻 Built multiple full-stack web applications
-- 🏅 Certified in Java through HackerRank
-- 🥇 Ranked among the **Top 5** in a web development group of 200+ participants
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
