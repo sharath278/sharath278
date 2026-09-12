@@ -10,13 +10,14 @@ I enjoy turning ideas into practical applications and improving my development s
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Full Stack Web Developer
-- ⚛️ Currently focusing on **React.js & MERN Stack**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🔨 Building real-world web applications
-- 🌱 Always learning and improving
-- 🎯 Goal: Become a strong software developer
+* 🎓 Computer Science Engineering Student
+* 💻 Full Stack Web Developer
+* ⚛️ Currently focusing on **React.js & MERN Stack**
+* 🔌 Learning **Real-Time Communication with WebSockets & Socket.IO**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🔨 Building real-world web applications
+* 🌱 Always learning and improving
+* 🎯 Goal: Become a strong software developer
 
 ---
 
@@ -46,6 +47,10 @@ I enjoy turning ideas into practical applications and improving my development s
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+### 🔌 Real-Time Communication
+
+`WebSockets` · `Socket.IO`
+
 ### 🔧 Tools
 
 <p>
@@ -62,14 +67,14 @@ A full-stack travel listing platform where users can explore destinations, creat
 
 ### ✨ Features
 
-- 🔐 User authentication & authorization
-- 🏠 Create, edit and delete listings
-- ⭐ Review and rating system
-- 🖼️ Image upload and management
-- 👤 Owner-based authorization
-- 🗄️ MongoDB database integration
+* 🔐 User authentication & authorization
+* 🏠 Create, edit and delete listings
+* ⭐ Review and rating system
+* 🖼️ Image upload and management
+* 👤 Owner-based authorization
+* 🗄️ MongoDB database integration
 
-**Tech Stack:**  
+**Tech Stack:**
 `Node.js` `Express.js` `MongoDB` `EJS` `Passport.js` `Cloudinary`
 
 ---
@@ -80,13 +85,13 @@ A healthcare-focused web application designed to provide users with a convenient
 
 ### ✨ Features
 
-- 👤 User management
-- 🏥 Healthcare-related services
-- 🔐 Authentication
-- 📊 Data management
-- 🌐 Full-stack web architecture
+* 👤 User management
+* 🏥 Healthcare-related services
+* 🔐 Authentication
+* 📊 Data management
+* 🌐 Full-stack web architecture
 
-**Tech Stack:**  
+**Tech Stack:**
 `Node.js` `Express.js` `MongoDB` `JavaScript` `HTML` `CSS`
 
 ---
@@ -97,14 +102,14 @@ A full-stack e-commerce application with product management, authentication, sel
 
 ### ✨ Features
 
-- 🔐 User authentication
-- 🛍️ Product management
-- 🛒 Shopping cart
-- 👨‍💼 Seller-based product management
-- ✏️ Create, update and delete products
-- 🗄️ MongoDB database
+* 🔐 User authentication
+* 🛍️ Product management
+* 🛒 Shopping cart
+* 👨‍💼 Seller-based product management
+* ✏️ Create, update and delete products
+* 🗄️ MongoDB database
 
-**Tech Stack:**  
+**Tech Stack:**
 `Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap` `Passport.js`
 
 ---
@@ -115,16 +120,35 @@ A full-stack food management application built with React that allows users to m
 
 ### ✨ Features
 
-- ➕ Add food items
-- 👀 View food items
-- ✏️ Edit food details
-- 🗑️ Delete food items
-- 🔐 Authentication
-- 🔗 REST API integration
-- 📱 React-based frontend
+* ➕ Add food items
+* 👀 View food items
+* ✏️ Edit food details
+* 🗑️ Delete food items
+* 🔐 Authentication
+* 🔗 REST API integration
+* 📱 React-based frontend
 
-**Tech Stack:**  
+**Tech Stack:**
 `React.js` `Node.js` `Express.js` `MongoDB` `Axios`
+
+---
+
+## 💬 Online Chatting Application
+
+A real-time online chatting application built using **native WebSockets** to enable direct, persistent communication between clients and the server.
+
+### ✨ Features
+
+* 💬 Real-time messaging
+* 🔌 Native WebSocket communication
+* ⚡ Instant message delivery
+* 👥 Multiple client connections
+* 🔄 Persistent WebSocket connection
+* 📡 Real-time client-server communication
+* 🖥️ WebSocket server with Node.js
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `Node.js` `WebSockets`
 
 ---
 
@@ -138,18 +162,20 @@ I regularly practice **Data Structures & Algorithms** to improve my problem-solv
 
 ### 🏆 DSA
 
-**450+ problems solved** across coding platforms.
+**500+ problems solved** across coding platforms.
 
 ---
 
 # 📈 Currently Learning
 
-- ⚛️ React.js
-- 🚀 Advanced MERN Stack
-- 🌐 REST API Development
-- 🔐 Authentication & Authorization
-- 🗄️ Database Design
-- 🏗️ System Design Fundamentals
+* ⚛️ React.js
+* 🚀 Advanced MERN Stack
+* 🌐 REST API Development
+* 🔌 WebSockets & Real-Time Communication
+* 📡 **Socket.IO**
+* 🔐 Authentication & Authorization
+* 🗄️ Database Design
+* 🏗️ System Design Fundamentals
 
 ---
 
